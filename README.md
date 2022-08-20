@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Back-end programmer
 -------------------
 
-I've started learning to program back in 2017 and currently have more than 4 years of experience with LuaU programming. The current programming languages I know now are: LuaU, node.js, python and C#.
-P.S My portfolio will be added soon :)
+I've started learning to program back in 2017 and currently have more than 4 years of experience with LuaU programming. The current programming languages I know now are: LuaU, node.js, python and C#. My portfolio will be added soon :)
 
 * 🌍  I'm based in The Netherlands
 * ✉️  You can contact me at [https://twitter.com/GGshor\_](mailto:https://twitter.com/GGshor_)
