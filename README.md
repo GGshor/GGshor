@@ -41,7 +41,7 @@ I've started learning to program back in 2017 and currently have more than 4 yea
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/GGshor/Grid" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Roblox-Security&repo=SecureClick&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/GGshor/Grid" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Roblox-Security&repo=SecureClick&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" 
 
 <br /><br /><br /><br /><br />
 
